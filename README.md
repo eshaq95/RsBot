@@ -32,7 +32,11 @@ https://user-images.githubusercontent.com/72145252/130074400-da27737e-a34d-4f7e-
 
 ### Mining ores:
 The video below show the mining process. 
-https://user-images.githubusercontent.com/72145252/129974227-5d3a3256-9559-4f1f-8ce9-7777f7cc9fd7.mp4
+
+
+https://user-images.githubusercontent.com/72145252/130077310-71b7c029-6cb8-4a08-99ee-27e1e661c5f6.mp4
+
+
 
 
 Dropping ores: Below is a video of the script dropping the ores from the inventory:
