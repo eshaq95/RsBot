@@ -22,12 +22,10 @@ The image below show a snap of real-time window showing the color filtering proc
 ![ProcessedACC](https://user-images.githubusercontent.com/72145252/130072585-03fc2d02-fd88-4109-9e81-0772c50ed588.png)
 (Color filtering)
 
-
 Output image with crosshairs screenshot:
 Image below show a snap of a real-time window showing the crosshairs as a result of match template (right) alongside the real client (left):
 ![OutputImage](https://user-images.githubusercontent.com/72145252/130072823-2dbd2840-cd63-41bc-94f2-c928528c0d5d.png)
 (Real-time object detection)
-
 
 
 Output video (real-time object detection): 
