@@ -27,8 +27,6 @@ Image below show a snap of a real-time window showing the crosshairs as a result
 ![OutputImage](https://user-images.githubusercontent.com/72145252/130072823-2dbd2840-cd63-41bc-94f2-c928528c0d5d.png)
 
 
-Output video (real-time object detection): 
-https://user-images.githubusercontent.com/72145252/130074400-da27737e-a34d-4f7e-a8da-41835848460a.mp4
 
 Mining ores:
 The video below show the mining process. 
