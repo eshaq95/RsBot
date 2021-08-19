@@ -84,7 +84,7 @@ if __name__ == "__main__":
         points = vision_limestone.get_click_points(rectangles)
         output_image = vision_limestone.draw_crosshairs(screenshot, points)
         # Output_image = vision_limestone.draw_rectangles(screenshot, rectangles) -- Draws rectangles around ores instead of crosshairs
-        #cv2.imshow('Processed', output_image)
+        cv2.imshow('Processed', output_image)
 
         
         #print('There are now {logs} logs in the inventory!'.format(logs = the_inventory.num_ores)) -- Alternative to showcase how many logs there are in the inventory
