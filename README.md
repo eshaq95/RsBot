@@ -1,18 +1,12 @@
-![ProcessedACC](https://user-images.githubusercontent.com/72145252/129977487-2d0af751-30e3-4e69-aabd-0f087f9cd2fc.png)
-![OutputImage](https://user-images.githubusercontent.com/72145252/129977490-22b22125-6154-4b9f-9a33-6e94d9c07bf4.png)
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/72145252/129975182-e8ad6a4f-5ac5-47f5-bf04-3dad3cc18ec1.gif)
+#Description
+
+This is a bot created for automizing the MMORPG game Runescape using OpenCV in Python. OpenCV is an open source computer vision library with hundreds of functions for processing and understanding images. We have used Object Detection and Mouse logic (from another library) to first detect the desired object and subsequently automize the mouse actions required. In this case the object detectection has been programmed to find an "Iron ore", the mouse logic to mine the ores and finally drop all ores once a certain threshold has been reached. In the sections below I will first give a quick explanation of the coding processes involved and finally show the application of the code:
 
 
+#
 
-
-
-
-
-
-This is a bot created for automizing the MMORPG game Runescape using computer vision in Python.
-
-In the section below I will explain the logic of the code and the tools and libraries used to complete this project.
-
+#Mining ores:
+The video below show the mining process. 
 
 
 https://user-images.githubusercontent.com/72145252/129974227-5d3a3256-9559-4f1f-8ce9-7777f7cc9fd7.mp4
