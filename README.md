@@ -17,28 +17,26 @@ This is a bot created for automizing the MMORPG game Runescape using OpenCV in P
 
 ## Implementation of script with examples:
 
-HSV color detection processed screenshot: 
+
+#### HSV color detection processed screenshot: 
 The image below show a snap of real-time window showing the color filtering process in action (right) alongside the real client (left)
 ![ProcessedACC](https://user-images.githubusercontent.com/72145252/130072585-03fc2d02-fd88-4109-9e81-0772c50ed588.png)
+*(Colour filtering)*
 
-Output image with crosshairs screenshot:
+#### Output image with crosshairs screenshot:
 Image below show a snap of a real-time window showing the crosshairs as a result of match template (right) alongside the real client (left):
 ![OutputImage](https://user-images.githubusercontent.com/72145252/130072823-2dbd2840-cd63-41bc-94f2-c928528c0d5d.png)
+*(Centre of object detection)*
 
-
-Output video (real-time object detection): 
+#### Output video (real-time object detection): 
 https://user-images.githubusercontent.com/72145252/130074400-da27737e-a34d-4f7e-a8da-41835848460a.mp4
+*(Real-time object detection)*
 
-
-### Mining ores:
+#### Mining ores:
 The video below show the mining process. 
-
-
 https://user-images.githubusercontent.com/72145252/130077310-71b7c029-6cb8-4a08-99ee-27e1e661c5f6.mp4
+*(Mining in action)*
 
-
-
-
-Dropping ores: Below is a video of the script dropping the ores from the inventory:
+##### Dropping ores: Below is a video of the script dropping the ores from the inventory:
 https://user-images.githubusercontent.com/72145252/129974088-b1c096cf-862a-4c4a-93ca-c7762e307e2c.mp4
-
+*(Dropping ores)*
