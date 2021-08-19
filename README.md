@@ -20,7 +20,6 @@ This is a bot created for automizing the MMORPG game Runescape using OpenCV in P
 HSV color detection processed screenshot: 
 The image below show a snap of real-time window showing the color filtering process in action (right) alongside the real client (left)
 ![ProcessedACC](https://user-images.githubusercontent.com/72145252/130072585-03fc2d02-fd88-4109-9e81-0772c50ed588.png)
-(Color filtering)
 
 Output image with crosshairs screenshot:
 Image below show a snap of a real-time window showing the crosshairs as a result of match template (right) alongside the real client (left):
@@ -31,7 +30,7 @@ Output video (real-time object detection):
 https://user-images.githubusercontent.com/72145252/130074400-da27737e-a34d-4f7e-a8da-41835848460a.mp4
 
 
-Mining ores:
+### Mining ores:
 The video below show the mining process. 
 https://user-images.githubusercontent.com/72145252/129974227-5d3a3256-9559-4f1f-8ce9-7777f7cc9fd7.mp4
 
