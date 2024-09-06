@@ -68,6 +68,3 @@ This bot is for educational purposes only. Using bots in online games may violat
 
 Contributions to improve the bot or add new features are welcome. Please feel free to fork the repository and submit pull requests.
 
-## License
-
-[Include license information here]
