@@ -2,13 +2,13 @@
 
 ## Description
 
-This project implements an advanced bot for automating mining tasks in the MMORPG Runescape, utilizing computer vision techniques with OpenCV in Python. The bot uses object detection and mouse automation to identify iron ores, mine them, and manage the player's inventory efficiently.
+This project implements an advanced bot for automating mining tasks in the MMORPG Runescape. It utilizes computer vision techniques with OpenCV in Python. The bot uses object detection and mouse automation to identify iron ores, mine them, and efficiently manage the player's inventory.
 
 ## Key Features
 
 - Real-time object detection for iron ores
 - Automated mining and inventory management
-- HSV color filtering for improved accuracy
+- HSV colour filtering for improved accuracy
 - Fast window capture for real-time processing
 - Inventory tracking and ore dropping
 
